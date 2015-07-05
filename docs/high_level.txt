@@ -1,0 +1,48 @@
+[Inspiration](https://learn.adafruit.com/buzzing-mindfulness-bracelet/overview)
+
+motion
+
+ * brisk warmup walk
+ * jogging
+ * walking
+
+intervals
+
+ * 60s, 90s, 3min, 5min, 8min, 10min, 20min, 22min, 25min, 28min, 30min
+
+duration
+
+ * 20min
+
+
+---
+
+start and pause button
+
+  * not sure if a stop button is needed since there's no logging
+  * maybe a single button can be used for start and pause?
+
+warm up/cool down button
+
+   * starts 5min timer
+
+on/off switch
+
+   * disconnects battery
+
+lipo battery
+
+   * separate charging circuit or integrate?
+   * status LED?
+
+Mode light
+
+   * one for jogging, one for walking
+   * What about running?
+   * different colors
+
+workout selection
+
+   * 9weeks, 3 workouts
+   * support 32 workouts
+
